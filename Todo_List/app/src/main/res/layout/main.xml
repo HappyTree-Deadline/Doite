@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+  >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"></LinearLayout>
+
+    <EditText
+    android:id="@+id/myEditText"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    android:visibility="gone"
+  />
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"></TableLayout>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:id="@+id/"></TableRow>
+
+    <ListView
+    android:id="@+id/myListView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+  />
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/F:/projects/Deadline提醒/EXA/Todo_List/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="notepad_lines">#FF0000FF</color>
+    <color name="notepad_margin">#90FF0000</color>
+    <color name="notepad_paper">#AAFFFF99</color>
+    <color name="notepad_text">#AA0000FF</color>
+    <!-- From: file:/F:/projects/Deadline提醒/EXA/Todo_List/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="notepad_margin">30px</dimen>
+    <!-- From: file:/F:/projects/Deadline提醒/EXA/Todo_List/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="add_new">Add New Item</string>
+    <string name="app_name">To Do List</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove">Remove Item</string>
+    <!-- From: file:/F:/projects/Deadline提醒/EXA/Todo_List/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="ToDoTheme" parent="@android:style/Theme.Black">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@color/notepad_paper">
+  <TextView
+    android:id="@+id/rowDate"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:padding="10dp"
+    android:scrollbars="vertical"
+    android:fadingEdge="vertical"
+    android:textColor="@color/notepad_text"
+    android:layout_alignParentRight="true"
+  />
+  <TextView
+    android:id="@+id/row"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"  
+    android:padding="10dp"
+    android:scrollbars="vertical"
+    android:fadingEdge="vertical"
+    android:textColor="@color/notepad_text"
+    android:layout_alignParentLeft="@+id/rowDate"
+  />
+</RelativeLayout>
+<!-- From: file:/F:/projects/Deadline提醒/EXA/Todo_List/app/src/main/res/layout/todolist_item.xml -->

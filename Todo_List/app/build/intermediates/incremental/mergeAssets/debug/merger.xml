@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\debug\assets" />
+    </dataSet>
+
+</merger>

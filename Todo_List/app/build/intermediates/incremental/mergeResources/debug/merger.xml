@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res" >
+            <file
+                name="add_new_item"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-hdpi\add_new_item.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="remove_item"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-hdpi\remove_item.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="add_new_item"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-ldpi\add_new_item.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="remove_item"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-ldpi\remove_item.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="add_new_item"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-mdpi\add_new_item.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="remove_item"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\drawable-mdpi\remove_item.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="main"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="todolist_item"
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\layout\todolist_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="notepad_margin" >#90FF0000
+                </color>
+                <color name="notepad_text" >#AA0000FF
+                </color>
+                <color name="notepad_paper" >#AAFFFF99
+                </color>
+                <color name="notepad_lines" >#FF0000FF
+                </color>
+            </file>
+            <file
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="notepad_margin" >30px
+                </dimen>
+            </file>
+            <file
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="remove" >Remove Item
+                </string>
+                <string name="add_new" >Add New Item
+                </string>
+                <string name="app_name" >To Do List
+                </string>
+                <string name="cancel" >Cancel
+                </string>
+            </file>
+            <file
+                path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="ToDoTheme"
+                    parent="@android:style/Theme.Black" >
+                    <item name="android:textSize">
+12sp
+                    </item>
+                </style>
+            </file>
+        </source>
+        <source path="F:\projects\Deadline提醒\EXA\Todo_List\app\build\generated\res\rs\debug" />
+        <source path="F:\projects\Deadline提醒\EXA\Todo_List\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="F:\projects\Deadline提醒\EXA\Todo_List\app\src\debug\res" />
+    </dataSet>
+
+</merger>
