@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Doite</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_new">新建任务</string>
+    <string name="action_total">统计任务</string>
+
+</resources>
