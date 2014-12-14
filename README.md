@@ -15,5 +15,5 @@ HappyTree Deadline是基于Android平台一款任务管理软件，用户可以�
 “Doit”是软件的完整代码包，appcompat_v7为Library，运行程序前需导入。
 运行环境：Android 4.4及以上版本
 
-Software Project @2014
+Software Project @ 2014
 
