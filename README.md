@@ -1,8 +1,8 @@
 HappyTree Deadline
 ============================================================
 
-大家一起玩 Happy Tree~
-HappyTree Deadline是基于Android平台一款任务管理软件，用户可以用它方便地组织和安排计划、任务。不同于已有的许多同类软件，HappyTree Deadline还有统计任务完成度的功能，及时提醒、反馈用户当前任务完成情况，提高效率。
+<p>大家一起玩 Happy Tree~</p>
+<p>HappyTree Deadline是基于Android平台一款任务管理软件，用户可以用它方便地组织和安排计划、任务。不同于已有的许多同类软件，HappyTree Deadline还有统计任务完成度的功能，及时提醒、反馈用户当前任务完成情况，提高效率。</p>
 
 【安装方法】
 1 环境搭建
