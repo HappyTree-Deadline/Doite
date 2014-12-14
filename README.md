@@ -16,5 +16,5 @@ HappyTree Deadline
 “Doit”是软件的完整代码包，appcompat_v7为Library，运行程序前需导入。<br>
 运行环境：Android 4.4及以上版本<br>
 
-<h2>Software Project @ 2014</h2>
+<h2>Software Project @ SJTU 2014</h2>
 
